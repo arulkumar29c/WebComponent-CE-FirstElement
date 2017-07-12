@@ -1,2 +1,2 @@
 # arul
-Think differently
+Think differently.
